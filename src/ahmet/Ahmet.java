@@ -7,5 +7,6 @@ public class Ahmet {
         System.out.println("merhaba ben ahmet");
         System.out.println("merhaba burası ahmet branchi");
         System.out.println(" Mehmetten yeni eklnti");
+        System.out.println("ahmet den");
     }
 }
